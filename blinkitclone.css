@@ -1,0 +1,43 @@
+*{ margin: 0px;
+padding: 0px;
+    }
+#search_bar{
+border-radius: 10px; 
+
+
+}
+
+#search_bar>input{
+
+
+    width: 40vw;
+border: none    ;
+padding: 10px;
+}
+
+#hero_section{
+display: flex;
+justify-content: center;
+}
+#category_lists{display: flex;
+flex-wrap: wrap;
+width: 85vw;
+justify-content: space-between; 
+
+
+}
+
+.scrollable_div{
+width: 85vw;
+margin: auto;
+overflow: hidden;
+}
+.list{
+white-space: nowrap;
+overflow-x: scroll;
+}
+
+.my-card{width: 180px;
+
+
+}
